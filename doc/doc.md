@@ -14,7 +14,7 @@ Tabela Regras de Negócio
 
 Diagramas
 
-![ES1.png](doc/Imagens/ES1.png)
+![ES1.png](../doc/Imagens/ES1.png)
 
 ![ES2.png](doc/Imagens/ES2.png)
 
