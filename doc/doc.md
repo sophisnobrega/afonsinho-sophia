@@ -16,10 +16,10 @@ Diagramas
 
 ![ES1.png](doc/Imagens/ES1.png)
 
-![ES2.png](Ponderada%20do%20Afonsinho%20s2%209d073f8ed06c419b9cdc938aa0f0c7a4/ES2.png)
+![ES2.png](doc/Imagens/ES2.png)
 
-![ES3.png](Ponderada%20do%20Afonsinho%20s2%209d073f8ed06c419b9cdc938aa0f0c7a4/ES3.png)
+![ES3.png](doc/Imagens/ES3.png)
 
-![ES4.png](doc/Imagens/ES5.png)
+![ES4.png](doc/Imagens/ES4.png)
 
-![ES5.png](Ponderada%20do%20Afonsinho%20s2%209d073f8ed06c419b9cdc938aa0f0c7a4/ES5.png)
+![ES5.png](doc/Imagens/ES5.png)
