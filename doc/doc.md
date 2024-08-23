@@ -20,6 +20,6 @@ Diagramas
 
 ![ES3.png](Ponderada%20do%20Afonsinho%20s2%209d073f8ed06c419b9cdc938aa0f0c7a4/ES3.png)
 
-![ES4.png](Ponderada%20do%20Afonsinho%20s2%209d073f8ed06c419b9cdc938aa0f0c7a4/ES4.png)
+![ES4.png](doc/Imagens/ES5.png)
 
 ![ES5.png](Ponderada%20do%20Afonsinho%20s2%209d073f8ed06c419b9cdc938aa0f0c7a4/ES5.png)
