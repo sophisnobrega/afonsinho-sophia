@@ -16,10 +16,10 @@ Diagramas
 
 ![ES1.png](../doc/Imagens/ES1.png)
 
-![ES2.png](doc/Imagens/ES2.png)
+![ES2.png](../doc/Imagens/ES2.png)
 
-![ES3.png](doc/Imagens/ES3.png)
+![ES3.png](../doc/Imagens/ES3.png)
 
-![ES4.png](doc/Imagens/ES4.png)
+![ES4.png](../doc/Imagens/ES4.png)
 
-![ES5.png](doc/Imagens/ES5.png)
+![ES5.png](../doc/Imagens/ES5.png)
